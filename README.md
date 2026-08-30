@@ -1,4 +1,3 @@
-[zim-bao-gia-rao-can.html](https://github.com/user-attachments/files/31621095/zim-bao-gia-rao-can.html)
 
 <title>Báo giá &amp; Xử lý rào cản</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
